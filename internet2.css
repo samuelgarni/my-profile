@@ -78,9 +78,8 @@ div {
 
 .container {
 	display: flex;
-	justify-content: space-around;
+	justify-content: center;
 	background: none;
-	margin-left: 16%;
 }
 
 .card-img {height: 150px;}
